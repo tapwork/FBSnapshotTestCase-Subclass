@@ -1,2 +1,2 @@
-# FBSnapshotTestCase-extension
-Little helper to make FBSnapshotTestCase a bit easier to use
+# FBSnapshotTestCase-Subclass
+Little Subclass to make FBSnapshotTestCase a bit easier to use
